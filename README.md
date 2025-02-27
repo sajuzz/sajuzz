@@ -19,7 +19,7 @@
 
 ## 🏆 Achievements  
 ✅ Created a **Custom Intrusion Detection System** using Suricata  
-✅ Working on **Advanced Malware Analysis Tool**  
+✅ created a **Advanced Malware Analysis Tool**  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
