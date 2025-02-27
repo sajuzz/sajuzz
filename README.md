@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SAJATH 
 
 🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Researcher**  
-🔹 **CEH Certified | Threat Hunting | Malware Analysis**  
+🔹   Threat Hunting | Malware Analysis**  
 🔹 **Suricata, Wazuh, Intrusion Detection | AI in Cybersecurity (Future Plan)**  
 
 ## 🔥 About Me  
@@ -16,12 +16,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=flat&logo=burpsuite&logoColor=white)  
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
 ## 🏆 Achievements  
-✅ CEH Certified  
 ✅ Created a **Custom Intrusion Detection System** using Suricata  
 ✅ Working on **Advanced Malware Analysis Tool**  
 
