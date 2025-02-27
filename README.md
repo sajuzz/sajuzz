@@ -18,7 +18,7 @@
 
 
 ## 🏆 Achievements  
-✅ Created a **Custom Intrusion Detection System** using Suricata  
+✅ working on a **Custom Intrusion Detection System** using Suricata  
 ✅ created a **Advanced Malware Analysis Tool**  
 
 ## 📫 Connect with Me  
