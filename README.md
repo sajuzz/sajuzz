@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">Your Name</a> </h1>
+<h1 align="center"> Hi there, I'm SAJATH <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">Your Name</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
@@ -12,24 +12,30 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="YOUR-IMAGE-URL" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Your Title | Anything else <br>
+✨ Security Analyst | Anything else <br>
 ⚡ Check my ✨ [Website](YOUR-WEBSITE) or 🌱 [eBook](YOUR-EBOOK-LINK)<br>
 📫 How to reach me: [Schedule Call](YOUR-SCHEDULE-LINK) or Join [Newsletter](YOUR-NEWSLETTER-LINK)<br>
 👯 Join my opensource community [YOUR-COMMUNITY](YOUR-COMMUNITY-LINK)<br>
-💬 Ask me about YOUR-SKILLS.<br>
+💬 💬 Ask me about Python, C, SQL, Go, security analysis, web pentesting, and related tools.
 
 <b>🛠 Tech Stack/ Certifications</b><br><br>
 Languages: 
-<img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
-<!-- Add more badges as needed -->
-
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat">&nbsp;
 Frameworks and Libraries: 
-<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
-<!-- Add more badges as needed -->
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MITRE ATT&CK-FF5733?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-ISO27001-0057B7?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=flat">&nbsp;
 
 Tools and Platforms: 
-<img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
-<!-- Add more badges as needed -->
+<img src="https://img.shields.io/badge/-Wazuh-5C2D91?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-BurpSuite-FF6600?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Metasploit-00457C?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Web%20Pentesting-000000?style=flat">&nbsp;
 
 ## Certification Badges 🪶
 <div align='center'>
