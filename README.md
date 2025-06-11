@@ -18,7 +18,7 @@ Great! Here’s an example of how you can add animated effects to your GitHub RE
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 As a passionate and results-driven Cyber Security Analyst, I specialize in:
 - Penetration testing
